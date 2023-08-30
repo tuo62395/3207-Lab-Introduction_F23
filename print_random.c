@@ -4,6 +4,7 @@
 
 
 
+
 int main()
 {
 	int a;
@@ -18,4 +19,6 @@ int main()
 
 	return(0);
 }
+
+
 
